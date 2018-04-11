@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1523456383 source:c:\users\alumno\desktop\cadenachar\main.c
+	<stdio.h>
+	<stdlib.h>
+
