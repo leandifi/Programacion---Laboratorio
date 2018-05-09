@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1496463425 source:c:\users\pancho\desktop\testeo lab\parcial laboratorio\lib.c
+	"lib.h"
+
+1496462847 c:\users\pancho\desktop\testeo lab\parcial laboratorio\lib.h
+	<strings.h>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
+1496462832 source:c:\users\pancho\desktop\testeo lab\parcial laboratorio\main.c
+	"lib.h"
+
+1497278544 source:d:\miercoles 14-06\parcial laboratorio\lib.c
+	"lib.h"
+
+1497278544 d:\miercoles 14-06\parcial laboratorio\lib.h
+	<strings.h>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
+1497278544 source:d:\miercoles 14-06\parcial laboratorio\main.c
+	"lib.h"
+
+1497446075 source:d:\miercoles 14-06\francisco di marzo borghi recuperatorio 1er parcial\lib.c
+	"lib.h"
+
+1497442804 d:\miercoles 14-06\francisco di marzo borghi recuperatorio 1er parcial\lib.h
+	<strings.h>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
+1497445051 source:d:\miercoles 14-06\francisco di marzo borghi recuperatorio 1er parcial\main.c
+	"lib.h"
+
+1497446075 source:c:\users\alumno\desktop\francisco di marzo borghi recuperatorio 1er parcial\lib.c
+	"lib.h"
+
+1497442804 c:\users\alumno\desktop\francisco di marzo borghi recuperatorio 1er parcial\lib.h
+	<strings.h>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
+1497445051 source:c:\users\alumno\desktop\francisco di marzo borghi recuperatorio 1er parcial\main.c
+	"lib.h"
+
