@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1526475418 source:d:\clase 2 de punteros\punteros_clase2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
